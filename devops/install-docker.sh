@@ -1,8 +1,7 @@
 #!/bin/bash
 
 ### REFERENCE
-
-# https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+### https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
 
  sudo apt-get update
  sudo apt-get install ca-certificates curl gnupg lsb-release -y
